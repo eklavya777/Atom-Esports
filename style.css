@@ -178,7 +178,7 @@ section{
 }
 
 .container{
-  display: none;
+  display: block;
 }
 
 
